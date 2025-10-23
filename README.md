@@ -1,4 +1,4 @@
-his script serves as an automated OTP processing system that:
+This script serves as an automated OTP processing system that:
 
 Connects to an IMAP email server to monitor incoming messages
 
